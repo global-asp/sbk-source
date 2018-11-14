@@ -1,28 +1,28 @@
 # Unafanya nini?
 
 ##
-Nina imba
+Ninaimba.
 
 ##
-Anapunga mkono
+Anapunga mkono.
 
 ##
-Nina piga makofi
+Ninapiga makofi.
 
 ##
-Anajinyoosha
+Anajinyoosha.
 
 ##
-Anaita
+Anaita.
 
 ##
-Nina itika
+Ninaitika.
 
 ##
-Anasikiliza
+Anasikiliza.
 
 ##
-Unafanya nini?
+Wewe unafanya nini?
 
 ##
 * License: [CC-BY]

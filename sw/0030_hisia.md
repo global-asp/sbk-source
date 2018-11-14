@@ -1,19 +1,19 @@
 # Hisia
 
 ##
-Moyo wangu unahisi vitu vingi
+Moyo wangu unahisi vitu vingi.
 
 ##
-Najisikia furaha bibi yangu akitusimulia hadithi jioni
+Najisikia furaha bibi yangu akitusimulia hadithi jioni.
 
 ##
-Najihisi mpuuzi ninapo cheza na rafiki yangu
+Najisikia kufanya mzaha ninapocheza na rafiki zangu.
 
 ##
-Najisikia vibaya baba yangu anaposema hana pesa
+Najisikia vibaya baba yangu anaposema hana pesa.
 
 ##
-Najihisi kupendwa mama yangu anapo nikumbatia
+Najihisi kupendwa na mama yangu anaponikumbatia.
 
 ##
 * License: [CC-BY-NC]
